@@ -2,7 +2,7 @@
 # 화목🌼🌳
 
 ![화목](https://user-images.githubusercontent.com/84499458/190884366-65afd725-720f-4777-8447-3d50aba77a4d.png)
-### 프로젝트 시연 [(Youtube Link)](https://www.youtube.com/watch?v=G_1d8exS180&t=36s)
+### [프로젝트 시연 (Youtube Link)](https://www.youtube.com/watch?v=G_1d8exS180&t=36s)
 ## 프로젝트 소개
 **가족의 일정, 사진, 목소리를 공유하고 관리해보세요. 화목은 가족 커뮤니케이션 종합 서비스입니다.**
 
@@ -25,21 +25,17 @@
 ## 아키텍처
 ![아키텍처](https://user-images.githubusercontent.com/84499458/190880928-c7626661-f5de-4b3d-89db-d3ad418a7590.png)
 
-기술 스택
-## BackEnd
-<img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/spring security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
-<img src="https://img.shields.io/badge/jsonwebtokens-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
+## 기술 스택
+### BackEnd   
+<img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/spring security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"> <img src="https://img.shields.io/badge/jsonweb tokens-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"> <img src="https://img.shields.io/badge/kakao login-FFCD00?style=for-the-badge&logo=kakao&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/amazon rds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
-<img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
-<img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
-
-<img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
-
-   
-라이브러리 상세(Notion link)
+<img src="https://img.shields.io/badge/amazon s3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">   
+### DevOps
+<img src="https://img.shields.io/badge/amazone c2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"> <img src="https://img.shields.io/badge/github actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"> <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">   
+### [라이브러리 상세 (Notion)](https://ddooyn.notion.site/10e4c333c42546c68d7628c0526995b1)
 ## 팀원 소개
-* FE: 윤수영(L), 김다흰, 이동현
-* BE: 김 현(VL), 강서의, 권유경
+* FE: [윤수영](https://github.com/ddooyn)(L), [김다흰](https://github.com/doa12), [이동현](https://github.com/slozche)
+* BE: [김 현](https://github.com/uoahy)(VL), [강서의](https://github.com/lemon203213), [권유경](https://github.com/Eachkwon)
 * Design: 정찬울
