@@ -1,10 +1,10 @@
-# harmony_BE
-화목🌼🌳
-image
 
-프로젝트 시연(Youtube Link)
-프로젝트 소개
-가족의 일정, 사진, 목소리를 공유하고 관리해보세요. 화목은 가족 커뮤니케이션 종합 서비스입니다.
+# 화목🌼🌳
+
+![화목](https://user-images.githubusercontent.com/84499458/190884366-65afd725-720f-4777-8447-3d50aba77a4d.png)
+### 프로젝트 시연 [(Youtube Link)](https://www.youtube.com/watch?v=G_1d8exS180&t=36s)
+## 프로젝트 소개
+**가족의 일정, 사진, 목소리를 공유하고 관리해보세요. 화목은 가족 커뮤니케이션 종합 서비스입니다.**
 
 📌 가족 일정을 한 번에 ! '그룹 구성원 간에 캘린더 공유 기능'
 
@@ -16,23 +16,30 @@ image
 
 📌 우리 가족의 화목 지수는? ‘가족 등급 및 랭킹 시스템’
 
-프로젝트 기간 (6주)
-기획: 8월 5일 ~ 8월 8일
-개발: 2022년 8월 9일 ~ 9월 4일
-런칭/마케팅 및 유저 테스트를 통한 개선: 9월 5일 ~ 9월 15일
-최종 발표: 9월 16일
-아키텍처
-https://user-images.githubusercontent.com/84499458/190880928-c7626661-f5de-4b3d-89db-d3ad418a7590.png
+## 프로젝트 기간 (6주)
+* 기획: 8월 5일 ~ 8월 8일
+* 개발: 2022년 8월 9일 ~ 9월 4일
+* 런칭/마케팅 및 유저 테스트를 통한 개선: 9월 5일 ~ 9월 15일
+* 최종 발표: 9월 16일
+
+## 아키텍처
+![아키텍처](https://user-images.githubusercontent.com/84499458/190880928-c7626661-f5de-4b3d-89db-d3ad418a7590.png)
 
 기술 스택
-FrontEnd
-        SockJS, Stomp
-DevOps.
-   Route 53, ACM
-Etc.
+## BackEnd
+<img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/spring security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
+<img src="https://img.shields.io/badge/jsonwebtokens-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
+<img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
+<img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+
+<img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+
    
 라이브러리 상세(Notion link)
-팀원 소개
-FE: 윤수영(L), 김다흰, 이동현
-BE: 김 현(VL), 강서의, 권유경
-Design: 정찬울
+## 팀원 소개
+* FE: 윤수영(L), 김다흰, 이동현
+* BE: 김 현(VL), 강서의, 권유경
+* Design: 정찬울
